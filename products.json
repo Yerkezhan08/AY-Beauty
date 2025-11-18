@@ -1,0 +1,272 @@
+[
+  {
+    "id": "dry1",
+    "name": "Увлажняющий крем для сухой кожи",
+    "price": 4500,
+    "shortDesc": "Глубокое увлажнение, снимает стянутость.",
+    "image": "https://via.placeholder.com/180",
+    "volume": "50 мл",
+    "skinType": "dry"
+  },
+  {
+    "id": "dry2",
+    "name": "Питательное масло для лица",
+    "price": 5200,
+    "shortDesc": "Питание и восстановление барьера кожи.",
+    "image": "https://via.placeholder.com/180",
+    "volume": "30 мл",
+    "skinType": "dry"
+  },
+  {
+    "id": "dry3",
+    "name": "Нежный молочко-очиститель",
+    "price": 2700,
+    "shortDesc": "Мягко очищает, не сушит кожу.",
+    "image": "https://via.placeholder.com/180",
+    "volume": "150 мл",
+    "skinType": "dry"
+  },
+  {
+    "id": "dry4",
+    "name": "Гиалуроновая сыворотка",
+    "price": 6000,
+    "shortDesc": "Интенсивное увлажнение и разглаживание.",
+    "image": "https://via.placeholder.com/180",
+    "volume": "30 мл",
+    "skinType": "dry"
+  },
+  {
+    "id": "dry5",
+    "name": "Питательная маска",
+    "price": 3000,
+    "shortDesc": "Насыщенное питание и мягкость кожи.",
+    "image": "https://via.placeholder.com/180",
+    "volume": "75 мл",
+    "skinType": "dry"
+  },
+  {
+    "id": "dry6",
+    "name": "Лавандовый бальзам",
+    "price": 4100,
+    "shortDesc": "Успокаивает и снимает раздражение.",
+    "image": "https://via.placeholder.com/180",
+    "volume": "40 мл",
+    "skinType": "dry"
+  },
+  {
+    "id": "dry7",
+    "name": "Тоник для сухой кожи",
+    "price": 2200,
+    "shortDesc": "Деликатный тоник без спирта.",
+    "image": "https://via.placeholder.com/180",
+    "volume": "150 мл",
+    "skinType": "dry"
+  },
+  {
+    "id": "dry8",
+    "name": "Ночной крем восстановитель",
+    "price": 4900,
+    "shortDesc": "Интенсивный ночной уход.",
+    "image": "https://via.placeholder.com/180",
+    "volume": "50 мл",
+    "skinType": "dry"
+  },
+  {
+    "id": "dry9",
+    "name": "SPF 30 увлажняющий крем",
+    "price": 5000,
+    "shortDesc": "Защита от солнца и питание.",
+    "image": "https://via.placeholder.com/180",
+    "volume": "50 мл",
+    "skinType": "dry"
+  },
+  {
+    "id": "dry10",
+    "name": "Крем для чувствительной сухой кожи",
+    "price": 3900,
+    "shortDesc": "Снижает покраснения и сухость.",
+    "image": "https://via.placeholder.com/180",
+    "volume": "40 мл",
+    "skinType": "dry"
+  },
+  {
+    "id": "oily1",
+    "name": "Матирующий гель для жирной кожи",
+    "price": 3200,
+    "shortDesc": "Контролирует блеск и сужает поры.",
+    "image": "https://via.placeholder.com/180",
+    "volume": "50 мл",
+    "skinType": "oily"
+  },
+  {
+    "id": "oily2",
+    "name": "Легкий матирующий крем",
+    "price": 3500,
+    "shortDesc": "Матирует без пересушивания.",
+    "image": "https://via.placeholder.com/180",
+    "volume": "50 мл",
+    "skinType": "oily"
+  },
+  {
+    "id": "oily3",
+    "name": "Сыворотка с салициловой кислотой",
+    "price": 4300,
+    "shortDesc": "Борется с высыпаниями и черными точками.",
+    "image": "https://via.placeholder.com/180",
+    "volume": "30 мл",
+    "skinType": "oily"
+  },
+  {
+    "id": "oily4",
+    "name": "Легкий флюид для жирной кожи",
+    "price": 3000,
+    "shortDesc": "Быстро впитывается, немасляная текстура.",
+    "image": "https://via.placeholder.com/180",
+    "volume": "40 мл",
+    "skinType": "oily"
+  },
+  {
+    "id": "oily5",
+    "name": "Пенка для умывания",
+    "price": 2600,
+    "shortDesc": "Глубокое, но мягкое очищение.",
+    "image": "https://via.placeholder.com/180",
+    "volume": "150 мл",
+    "skinType": "oily"
+  },
+  {
+    "id": "oily6",
+    "name": "Тоник для проблемной кожи",
+    "price": 2700,
+    "shortDesc": "Восстанавливает pH и освежает.",
+    "image": "https://via.placeholder.com/180",
+    "volume": "150 мл",
+    "skinType": "oily"
+  },
+  {
+    "id": "oily7",
+    "name": "Глиняная маска",
+    "price": 3100,
+    "shortDesc": "Очищает поры и уменьшает блеск.",
+    "image": "https://via.placeholder.com/180",
+    "volume": "75 мл",
+    "skinType": "oily"
+  },
+  {
+    "id": "oily8",
+    "name": "SPF 50 матирующий крем",
+    "price": 4800,
+    "shortDesc": "Солнцезащита без лишнего блеска.",
+    "image": "https://via.placeholder.com/180",
+    "volume": "50 мл",
+    "skinType": "oily"
+  },
+  {
+    "id": "oily9",
+    "name": "Ниацинамид 10%",
+    "price": 4200,
+    "shortDesc": "Улучшает текстуру и уменьшает поры.",
+    "image": "https://via.placeholder.com/180",
+    "volume": "30 мл",
+    "skinType": "oily"
+  },
+  {
+    "id": "oily10",
+    "name": "Средство против акне",
+    "price": 3900,
+    "shortDesc": "Снижает воспаления и ускоряет заживление.",
+    "image": "https://via.placeholder.com/180",
+    "volume": "30 мл",
+    "skinType": "oily"
+  },
+  {
+    "id": "combo1",
+    "name": "Крем-эмульсия для комбинированной кожи",
+    "price": 3600,
+    "shortDesc": "Балансирует сухие и жирные зоны.",
+    "image": "https://via.placeholder.com/180",
+    "volume": "50 мл",
+    "skinType": "combo"
+  },
+  {
+    "id": "combo2",
+    "name": "Балансирующий тоник",
+    "price": 2900,
+    "shortDesc": "Уравновешивает и освежает кожу.",
+    "image": "https://via.placeholder.com/180",
+    "volume": "150 мл",
+    "skinType": "combo"
+  },
+  {
+    "id": "combo3",
+    "name": "Гель-крем легкой текстуры",
+    "price": 3800,
+    "shortDesc": "Увлажняет без жирного блеска.",
+    "image": "https://via.placeholder.com/180",
+    "volume": "50 мл",
+    "skinType": "combo"
+  },
+  {
+    "id": "combo4",
+    "name": "Мягкое средство для умывания",
+    "price": 2500,
+    "shortDesc": "Очищает, не пересушивая участки.",
+    "image": "https://via.placeholder.com/180",
+    "volume": "150 мл",
+    "skinType": "combo"
+  },
+  {
+    "id": "combo5",
+    "name": "Гель-тоник для баланса",
+    "price": 3000,
+    "shortDesc": "Выравнивает текстуру кожи.",
+    "image": "https://via.placeholder.com/180",
+    "volume": "120 мл",
+    "skinType": "combo"
+  },
+  {
+    "id": "combo6",
+    "name": "SPF 30 дневной крем",
+    "price": 4500,
+    "shortDesc": "Защищает и увлажняет.",
+    "image": "https://via.placeholder.com/180",
+    "volume": "50 мл",
+    "skinType": "combo"
+  },
+  {
+    "id": "combo7",
+    "name": "Баланс-маска",
+    "price": 3200,
+    "shortDesc": "Нормализует производство себума.",
+    "image": "https://via.placeholder.com/180",
+    "volume": "75 мл",
+    "skinType": "combo"
+  },
+  {
+    "id": "combo8",
+    "name": "Легкий увлажнитель",
+    "price": 3300,
+    "shortDesc": "Поддерживает комфорт и сияние.",
+    "image": "https://via.placeholder.com/180",
+    "volume": "50 мл",
+    "skinType": "combo"
+  },
+  {
+    "id": "combo9",
+    "name": "Витаминная сыворотка",
+    "price": 5000,
+    "shortDesc": "Улучшает тон и придаёт здоровое сияние.",
+    "image": "https://via.placeholder.com/180",
+    "volume": "30 мл",
+    "skinType": "combo"
+  },
+  {
+    "id": "combo10",
+    "name": "Тонкая очищающая маска",
+    "price": 3500,
+    "shortDesc": "Глубокое очищение и балансировка.",
+    "image": "https://via.placeholder.com/180",
+    "volume": "75 мл",
+    "skinType": "combo"
+  }
+]
